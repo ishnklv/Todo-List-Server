@@ -1,0 +1,13 @@
+.DS_Store
+.dockerignore
+.gitignore
+docker-compose.yml
+Dockerfile
+README.md
+.git
+.idea
+dist
+k8s
+node_modules
+tests
+documentation
